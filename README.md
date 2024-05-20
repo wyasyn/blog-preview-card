@@ -2,7 +2,7 @@
 
 This repository provides the HTML and CSS code to create a stylish blog card similar to the one shown below.
 
-![Blog Card](path/to/your/image.jpg)
+![Blog Card](./assets/images/screenshot.jpg)
 
 ## Features
 
